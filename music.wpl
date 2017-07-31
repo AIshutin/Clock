@@ -2,18 +2,38 @@
 <smil>
     <head>
         <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.9600.18229"/>
-        <meta name="ItemCount" content="1"/>
-        <meta name="IsFavorite"/>
-        <meta name="ContentPartnerListID"/>
-        <meta name="ContentPartnerNameType"/>
-        <meta name="ContentPartnerName"/>
-        <meta name="Subtitle"/>
-        <author/>
+        <meta name="ItemCount" content="27"/>
         <title>music</title>
     </head>
     <body>
         <seq>
             <media src="Music\1 - Splin - skazhi.mp3"/>
+            <media src="Music\1 - Zveri - vse chto tebya kasaetsya.mp3"/>
+            <media src="Music\2 - Boys-Does-Nothing.mp3"/>
+            <media src="Music\2 - Crazy All My Life.mp3"/>
+            <media src="Music\3 - Crazy loop.mp3"/>
+            <media src="Music\3 - katy_perry_-_hot_n_cold.mp3"/>
+            <media src="Music\3 - Perhaps, perhaps, perhaps.mp3"/>
+            <media src="Music\4 - Katy Perry - Teenage Dream.mp3"/>
+            <media src="Music\Grandmother smoking.mp3"/>
+            <media src="Music\5 - Cascada_-_A_Never_Ending_Dream.mp3"/>
+            <media src="Music\5 - If only you.mp3"/>
+            <media src="Music\520dba79466959.mp3"/>
+            <media src="Music\6 - Show me your love.mp3"/>
+            <media src="Music\7 - alexia_-_money_honey_kiss_version.mp3"/>
+            <media src="Music\cher_-_the_shoop_shoop_song_its_in_his_kiss.mp3"/>
+            <media src="Music\Christina_Aquilera_-_Not_Myself_Tonight.mp3"/>
+            <media src="Music\e942ffa83c0093.mp3"/>
+            <media src="Music\girls_aloud_-_something_kinda_ooooh.mp3"/>
+            <media src="Music\Hochesh.mp3"/>
+            <media src="Music\Natasha St. Pier - Tant Que C'est Toi.mp3"/>
+            <media src="Music\Nicole Scherzinger - Heartbeat.mp3"/>
+            <media src="Music\papa Americano.mp3"/>
+            <media src="Music\Picnick2015.mp3"/>
+            <media src="Music\Release me.mp3"/>
+            <media src="Music\Roman Colesnik Hastl.mp3"/>
+            <media src="Music\Whatever Happens.mp3"/>
+            <media src="Music\WhatIsLove.mp3"/>
         </seq>
     </body>
 </smil>
